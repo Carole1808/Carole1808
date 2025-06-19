@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Itsevy
 
-<!--
-**Carole1808/Carole1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a passion for transforming raw data into actionable insights using tools like Power BI, SQL, and Excel.
 
-Here are some ideas to get you started:
+## 🔧 My Skills
+- Power BI • SQL • Excel • Tableau • Little R
+- Data Cleaning • Visualization • Business Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+### 📦 Looker E-Commerce (Power BI)
+[View on GitHub](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Looker%20E-Commerce)
+- Analyze differents metrics from Sales, Logistic, Marketing, Customer Service and Inventory department
+- Built custom tooltip pages and navigation
+- Delivered insigths and strategic recommendations for all the departments
+
+### 📈 Bellabeat Case Study (R, SQL, Tableau)
+[View Project](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Bellabeat-Case-Study)
+
+## 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/itsevy-dominguez-88b7931a6) | [Portfolio Website](https://github.com/Carole1808/data-analyst-portfolio/tree/main)
