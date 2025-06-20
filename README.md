@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Itsevy
+# 👋 Hi, I'm Itsevy
 
-I'm a data analyst with a passion for transforming raw data into actionable insights using tools like Power BI, SQL, and Excel.
+I'm a data analyst with a passion for transforming raw data into actionable insights using tools like Power BI, Tableau, SQL, and Excel. 
 
 ## 🔧 My Skills
 - Power BI • SQL • Excel • Tableau • Little R
@@ -17,7 +17,13 @@ I'm a data analyst with a passion for transforming raw data into actionable insi
 ### 📈 Bellabeat Case Study (Excel, SQL, Tableau)
 [View Project](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Bellabeat-Case-Study)
 
-### 🖼️ Some of my visualizations 
+## 🚀 The Journey Behind Those Projects
+This portfolio doesn't just showcase the final visualizations — it tells the story of the entire journey I went through to complete this project. From understanding the business context and cleaning raw data, to analyzing trends, building DAX measures, and designing department-specific dashboards in Power BI, every step was an opportunity to grow.
+It challenged me to think critically, solve problems creatively, and apply everything I’ve learned as an aspiring data analyst.
+Explore the full breakdown and visualizations in the [End-to-End Projects](https://github.com/Carole1808?tab=projects).
+This journey is proof that with dedication and persistence, even the most complex projects can be accomplished.
+
+## 🖼️ Some of my visualizations 
 ![Brew_Heaven_Dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Power%20BI%20Visualizations/Brew%20Heaven%20project.png)
 ![Bellabeat](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/User%20Classification%201.png) 
 ![Bellabeat](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/life%20Style%20User%20Classification.png)
