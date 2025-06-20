@@ -28,4 +28,4 @@ I'm a data analyst with a passion for transforming raw data into actionable insi
 ![Looker_E_Commerce](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/marketing_department.png.png)
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/itsevy-dominguez-88b7931a6) | [Portfolio Website](https://github.com/Carole1808/data-analyst-portfolio/tree/main)
+[LinkedIn](www.linkedin.com/in/itsevy-dominguez-88b7931a6) | [Portfolio Website](https://github.com/Carole1808/data-analyst-portfolio/tree/main) | [Resume](https://github.com/Carole1808/itsevy-resume)
