@@ -24,7 +24,6 @@ Explore the full breakdown and visualizations in the [End-to-End Projects](https
 This journey is proof that with dedication and persistence, even the most complex projects can be accomplished.
 
 ## 🖼️ Some of my visualizations 
-![Brew_Heaven_Dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Power%20BI%20Visualizations/Brew%20Heaven%20project.png)
 ![Bellabeat](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/User%20Classification%201.png) 
 ![Bellabeat](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/life%20Style%20User%20Classification.png)
 ![Bellabeat](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Bellabeat-Case-Study/Visualizations/Performing%20Recomended.png)
@@ -32,6 +31,7 @@ This journey is proof that with dedication and persistence, even the most comple
 ![Looker_E_Commerce](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/sales_department.png.png)
 ![Looker_E_Commerce](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/logistic_department.png.png)
 ![Looker_E_Commerce](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Looker%20E-Commerce/Assets/marketing_department.png.png)
+![Brew_Heaven_Dashboard](https://github.com/Carole1808/data-analyst-portfolio/blob/main/Power%20BI%20Visualizations/Brew%20Heaven%20project.png)
 
 ## 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/itsevy-dominguez-88b7931a6) | [Portfolio Website](https://github.com/Carole1808/data-analyst-portfolio/tree/main) | [Resume](https://github.com/Carole1808/itsevy-resume)
