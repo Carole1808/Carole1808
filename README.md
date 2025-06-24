@@ -37,3 +37,5 @@ This journey is proof that with dedication and persistence, even the most comple
 
 ## 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/itsevy-dominguez-88b7931a6) | [Portfolio Website](https://github.com/Carole1808/data-analyst-portfolio/tree/main) | [Resume](https://github.com/Carole1808/itsevy-resume)
+
+👉 If you're interested in data analytics, **follow me to see more projects!**
