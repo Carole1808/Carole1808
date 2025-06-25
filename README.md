@@ -16,7 +16,8 @@ I'm a data analyst with a passion for transforming raw data into actionable insi
 
 ### 📈 Bellabeat Case Study (Excel, SQL, Tableau)
 [View Project](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Bellabeat-Case-Study)
-Analyze smart device usage data (from Fitbit) to understand user behavior patterns in physical activity, intensity, calories burned, and engagement. These insights will guide marketing strategies for Bellabeat products and identify how users could benefit from Bellabeat's wellness-focused features.
+- Analyze smart device usage data (from Fitbit) to understand user behavior patterns in physical activity, intensity,calories burned, and engagement.
+- The insights may guide marketing strategies for Bellabeat products and identify how users could benefit from Bellabeat's wellness-focused features.
 
 
 ## 🚀 The Journey Behind Those Projects
