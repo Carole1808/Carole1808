@@ -9,7 +9,7 @@ I'm a data analyst with a passion for transforming raw data into actionable insi
 
 ## 📂 Featured Projects
 ### 📦 Looker E-Commerce (Power BI)
-[View on GitHub](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Looker%20E-Commerce)
+[View Project](https://github.com/Carole1808/data-analyst-portfolio/tree/main/Looker%20E-Commerce)
 - Analyze differents metrics from Sales, Logistic, Marketing, Customer Service and Inventory department
 - Built custom tooltip pages and navigation
 - Delivered insigths and strategic recommendations for all the departments
